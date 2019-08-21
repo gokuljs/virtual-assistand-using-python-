@@ -1,4 +1,4 @@
-# virtual-assistand-using-python-
+# virtual-assistant-using-python-
 
 
 understanding about the project :-https://youtu.be/1o_CX6gS0xQ
