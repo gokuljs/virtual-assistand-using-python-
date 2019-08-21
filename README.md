@@ -1,1 +1,0 @@
-# virtual-assistand-using-python-
